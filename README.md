@@ -2,7 +2,7 @@
 
 ###
 <p>- No momento estou trabalhando como suporte técnico de um sistema EPP.🖥️<p/>
-<p>- Estou estudando os conceitos de Orientação a objetos em Java e Banco de Dados com PostgreeSQL📚<p/>
+<p>- Estou estudando os conceitos de Orientação a objetos em Java e Banco de Dados com PostgreSQL📚<p/>
 <p>📧Email para contato: marhlonkorb@hotmail.com<p/>
 
 <div align = "center">
