@@ -6,7 +6,7 @@
 <p>📧Email para contato: marhlonkorb@hotmail.com<p/>
 
 <div align = "center">
-  <a href="https://github.com/marhlonkorb">
+  <a href="https://github.com/marhlonkorb" target="_blank">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=marhlonkorb&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marhlonkorb&layout=compact&langs_count=7&theme=dark" />
 </div>
