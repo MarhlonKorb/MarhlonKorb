@@ -1,8 +1,8 @@
 ### Olá, me chamo Marhlon! Seja bem vindo ao meu perfil 👋
 
 ###
-<p>- No momento estou trabalhando como suporte técnico de um sistema EPP.🖥️<p/>
-<p>- Estou estudando os conceitos de Orientação a objetos em Java e Banco de Dados com PostgreSQL📚<p/>
+<p>- No momento estou trabalhando como suporte técnico de um sistema EPP e estagiando no setor de desenvolvimento de software.🖥️<p/>
+<p>- Estou estudando os conceitos de Orientação a objetos em Java e Banco de Dados com PostgreSQL, como também Spring Boot Framework e API RestFul.📚<p/>
 <p>📧Email para contato: marhlonkorb@hotmail.com
 
 <div align = "center">
