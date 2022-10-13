@@ -5,6 +5,7 @@
 <p>- Atuo como desenvolvedor de software na parte do backend com foco em Spring Boot e API RestFul.📚<p/>
 <p>- No front end utilizo TypeScript com foco em Angular e estudou estudando Flutter para dispositivos móveis.📚<p/>
 
+<div>
   <a href="https://github.com/marhlonkorb" target="_blank">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=marhlonkorb&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marhlonkorb&layout=compact&langs_count=7&theme=dark" />
