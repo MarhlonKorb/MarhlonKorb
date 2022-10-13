@@ -24,7 +24,8 @@
              <img height = "43" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <a href="https://github.com/MarhlonKorb/clientes-app">
     <img height = "40" width = "65"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></a>
-         <img height = "40" width = "65"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <a href="#">
+         <img height = "40" width = "65"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
      <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
          <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
