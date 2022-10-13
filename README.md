@@ -12,14 +12,18 @@
 
   <div style = "display: inline"> <br>
   <a href="https://github.com/MarhlonKorb/jsp-servlet-jdbc-postgres-crud">
-  <img height = "60" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></a>  
-  <img height = "45" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img height = "60" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></a> 
+  <a href="https://github.com/MarhlonKorb/conectaPostgre">
+  <img height = "45" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>
   <img height = "45" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img alt = "dart" height = "40" width = "85" src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <a href="https://github.com/MarhlonKorb/projeto_em_flutter">
+  <img alt = "dart" height = "40" width = "85" src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"></a>
   <img alt = "git" height = "40" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-         <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg" href="https://github.com/MarhlonKorb/clientes-app-api-spring-boot">
+  <a href="https://github.com/MarhlonKorb/clientes-app-api-spring-boot">
+         <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg"></a>
              <img height = "43" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-                 <img height = "40" width = "65"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <a href="https://github.com/MarhlonKorb/clientes-app">
+    <img height = "40" width = "65"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></a>
          <img height = "40" width = "65"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
      <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
