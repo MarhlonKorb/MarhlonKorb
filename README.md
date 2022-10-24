@@ -3,7 +3,7 @@
 ###
 <p>- Software Developer🖥️<p/>
 <p>- Atuo como desenvolvedor de software na parte do backend com foco em Spring Boot e API RestFul.📚<p/>
-<p>- No front end utilizo TypeScript com foco em Angular e estudou estudando Flutter para dispositivos móveis.📚<p/>
+<p>- No front end utilizo TypeScript com foco em Angular e estou estudando Flutter para dispositivos móveis.📚<p/>
 
 <div>
   <a href="https://github.com/marhlonkorb" target="_blank">
