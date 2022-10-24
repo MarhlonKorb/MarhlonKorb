@@ -18,7 +18,7 @@
   <img height = "45" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>
   <a href="#"><img height = "45" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
   <a href="https://github.com/MarhlonKorb/projeto_em_flutter">
-  <img alt = "dart" height = "40" width = "85" src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"></a>
+  <img alt = "dart" height = "40" width = "85" src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a>
   <a href="https://github.com/MarhlonKorb#"><img alt = "git" height = "40" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/></a>
   <a href="https://github.com/MarhlonKorb/clientes-app-api-spring-boot">
          <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg"></a>
