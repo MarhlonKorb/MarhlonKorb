@@ -1,9 +1,9 @@
 ### Olá, me chamo Marhlon! Seja bem vindo ao meu perfil 👋
 
 ###
-<p>- Software Developer🖥️<p/>
-<p>- Atuo como desenvolvedor de software na parte do backend com foco em Spring Boot e API RestFul.📚<p/>
-<p>- No front end utilizo TypeScript com foco em Angular e estou estudando Flutter para dispositivos móveis.📚<p/>
+<a>- Software Developer🖥️</a><br>
+<a>- Atuo como desenvolvedor de software Fullstack</a><br>
+<a>- Java com Spring, Angular e Flutter</a>
 
 <div>
   <a href="https://github.com/marhlonkorb" target="_blank">
@@ -16,15 +16,17 @@
   <img height = "60" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></a> 
   <a href="https://github.com/MarhlonKorb/conectaPostgre">
   <img height = "45" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>
+    <a href="https://github.com/MarhlonKorb#"><img alt = "git" height = "40" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/></a>
   <a href="#"><img height = "45" width = "65" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
   <a href="https://github.com/MarhlonKorb/projeto_em_flutter">
   <img alt = "dart" height = "40" width = "85" src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a>
   <a href="https://github.com/MarhlonKorb#"><img alt = "git" height = "40" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/></a>
+    <a href="https://github.com/MarhlonKorb#"><img alt = "git" height = "50" width = "80" src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/></a>
   <a href="https://github.com/MarhlonKorb/clientes-app-api-spring-boot">
-         <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg"></a>
-             <img height = "43" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+         <img height = "40" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
+             <img height = "43" width = "65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <a href="https://github.com/MarhlonKorb/clientes-app">
-    <img height = "40" width = "65"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></a>
+    <img height = "40" width = "65"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></a>
   <a href="#">
          <img height = "40" width = "65"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="#">
