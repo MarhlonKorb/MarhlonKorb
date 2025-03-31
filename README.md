@@ -3,7 +3,7 @@
 ###
 <a>- Software Developer🖥️</a><br>
 <a>- Atuo como desenvolvedor de software Fullstack</a><br>
-<a>- Java com Spring, Angular e Flutter</a>
+<a>- Java com Spring ou Quarkus, Angular e Flutter</a>
 
 <div>
   <a href="https://github.com/marhlonkorb" target="_blank">
